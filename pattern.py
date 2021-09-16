@@ -15,5 +15,5 @@ def pypart(n):
 
 
 
-n = 6
+n = 3
 pypart(n)
